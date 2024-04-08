@@ -73,7 +73,7 @@ async def disconnect(bot, message):
        g_link = group.invite_link
        await User.leave_chat(channel)
     except Exception as e:
-       text = f"❌ Error: `{str(e)}`\nMake sure I'm admin in that channel & this group with all permissions and {(User.username or User.mention)} is not banned there"
+       text = f"❌ Error: `{str(e)}`\nMake sure I'm admin in that channel & this group with all permissions and {(user.username or user.mention)} is not banned there"
        return await m.edit(text)
     await update_group(message.chat.id, {"channels":channels})
     await m.edit(f"✅ Successfully disconnected from [{chat.title}]({c_link})!", disable_web_page_preview=True)
