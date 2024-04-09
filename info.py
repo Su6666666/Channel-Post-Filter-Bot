@@ -2,6 +2,6 @@ API_ID       = 20166883
 API_HASH     = "2ed83c06296da199c977de79dc171089"
 BOT_TOKEN    = "6899643012:AAFvam6sdFmdQGExw-K86z2X_hy918a_M4o"
 SESSION      = "BQHFENsAaO5aaTOMr0pd_dzQUahbyoE6KLLm1q2S08O8WLBYWkN2gAeRlsPu60x8mBzLYfg4vJ6tTYcZ_OFPdBLnWsqxJx5DIB2_qTfhOmu0pmaHaEummFUkXhMICCRu7aABCVsQ1KoL1VT7igWCcLFUOponXpEZcMO_IuMC3138WvfNGiNEhZmUcNlIwucxvxBYEd-GMw-9VNjwWhmNJgFCV09nsjduTGdN3GOnmNPJYp4FFva6NkE7YhxmdZpm9BvRUgcsXgNlyVCGpAOvFKZWFnpOSyttNou4LboVpNPG5kJQ7dvU90rN1t6cMOi-jh8E0FnfwBFzdKZfZIQkZSaUZ_CevAAAAABK8ABJAA"
-DATABASE_URI = "mongodb+srv://alokbbhaiark:zTYsSe6ari2YibJf@cluster0.pjw4lwa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_URI = "mongodb+srv://filmflixalok:3j4myk08YsVz8cT4@cluster0.uxvadka.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 LOG_CHANNEL  = -1002079425857
 ADMIN        = 1257242697
